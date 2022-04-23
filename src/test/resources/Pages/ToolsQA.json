@@ -1,0 +1,63 @@
+{
+
+  "Add": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@id='addNewRecordButton']"
+  },
+
+  "Name": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//input[@id='firstName']"
+  },
+
+  "LastName": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//input[@id='lastName']"
+  },
+
+  "Email": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='userEmail']"
+  },
+
+  "Age": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='age']"
+  },
+
+  "Salary": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='salary']"
+  },
+
+  "Department": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//input[@id='department']"
+  },
+
+  "Submit": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//button[@id='submit']"
+  },rfh54y54y54y54y54y54y
+
+  "Edit": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//body/div[@id='app']/div[1]/div[1]/div[2]/div[2]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[7]"
+  },
+
+  "Delete": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//body/div[@id='app']/div[1]/div[1]/div[2]/div[2]/div[2]/div[3]/div[1]/div[2]/div[1]/div[1]/div[7]/div[1]/span[2]/*[1]"
+  },
+
+  "Email Error": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//label[@class='has-error']"
+  },
+
+  "text":{
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//*[contains(text(), '{0}')]"
+  }
+
+}
