@@ -1,7 +1,5 @@
 # testing01
-
-=========
- Se automatiza la página https://demoqa.com/webtables
+Se automatiza la página https://demoqa.com/webtables
 =========
 Se utiliza IntelliJ Idea Community Edition 2022.1 como IDE
 =========
